@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    
+  <!-- Bulgarian -->
+  
+    <string id="610">Свързване с Gmail ...</string>
+    <string id="611">(%s) Нови ел. писма%s</string>
+    <string id="612">Получено в %s (чаосви пояс UTC)</string>
+    <string id="613">Грешка при свързването с Gmail</string>
+    <string id="614">Моля, въведете потребителско име и прола</string>
+
+  <!-- Script Settings -->
+
+    <string id="30100">Настройки</string>
+    <string id="30101">Потребителско име за Gmail</string>
+    <string id="30102">Парола за Gmail</string>
+
+</strings>

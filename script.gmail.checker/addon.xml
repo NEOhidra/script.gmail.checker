@@ -9,8 +9,10 @@
   <extension point="xbmc.python.script"
              library="default.py" />
   <extension point="xbmc.addon.metadata">
+    <summary lang="bg">Проверка на поща в Gmail</summary>
     <summary lang="en">Gmail Checker</summary>
     <summary lang="hu">Gmail ellenörző</summary> 
+    <description lang="bg">Прегледайте ел. си писма в Gmail</description>
     <description lang="en">View Gmail e-mails</description>
     <description lang="hu">Gmail leveleid olvasása</description>
     <platform>all</platform>
